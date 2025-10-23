@@ -1,0 +1,42 @@
+{
+    "9c40819b-4a8f-468f-9ba5-4b9699f3361f": {
+        "id": "f0fbbcef-b121-4529-96af-1220c6091881",
+        "name": "Charts",
+        "designId": "30109186-72e8-4791-9f64-cc980bc61728",
+        "pluginId": "9c40819b-4a8f-468f-9ba5-4b9699f3361f",
+        "publicData": {}
+    },
+    "d66a250d-8468-469e-ad33-ee028f632398": {
+        "id": "ec01baf8-0573-4696-9a1b-88ddbdfb1fb5",
+        "name": "OpenAI",
+        "designId": "30109186-72e8-4791-9f64-cc980bc61728",
+        "pluginId": "d66a250d-8468-469e-ad33-ee028f632398",
+        "publicData": {}
+    },
+    "6a64802c-52f8-4637-9932-580bf178aaa7": {
+        "id": "c12d2f45-478b-4d15-804c-0e1c60272d86",
+        "name": "WeWeb Auth",
+        "designId": "30109186-72e8-4791-9f64-cc980bc61728",
+        "pluginId": "6a64802c-52f8-4637-9932-580bf178aaa7",
+        "publicData": {
+            "clientId": "3c2lvju5qc0nlf2ckineq63uq7",
+            "userPoolId": "us-east-1_VdTiOsqUI",
+            "invitationEmail": {
+                "EmailMessage": "Hi,<br/><br/>You have been invited to join the <b>Webinar-Preview</b> application.<br/>Please login with your email <b>{username}</b> using the password below:<br/><b>{####}</b><br/><br/>Best.",
+                "EmailSubject": "Invitation to join Webinar-Preview application"
+            },
+            "verificationEmail": {
+                "EmailMessage": "Hi,<br/><br/>Here is your verification code <b>{####}</b> to change your password on the <b>Webinar-Preview</b> application.<br/><br/>Best.<br/>",
+                "EmailSubject": "Your verification code for Webinar-Preview application",
+                "DefaultEmailOption": "CONFIRM_WITH_CODE"
+            }
+        }
+    },
+    "832d6f7a-42c3-43f1-a3ce-9a678272f811": {
+        "id": "b28bfcf0-42cb-4123-8b4d-e5c054246ef7",
+        "name": "Date",
+        "designId": "30109186-72e8-4791-9f64-cc980bc61728",
+        "pluginId": "832d6f7a-42c3-43f1-a3ce-9a678272f811",
+        "publicData": {}
+    }
+}
